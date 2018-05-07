@@ -303,6 +303,9 @@ footer p {
   background: #fcfcfc;
   background: rgba(255, 255, 255, 0.2);
 }
+.img-responsive.img-rounded {
+  max-height: 200px;
+}
 img::selection {
   background: transparent;
 }
